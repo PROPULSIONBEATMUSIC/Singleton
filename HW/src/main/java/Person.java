@@ -3,7 +3,7 @@ public class Person implements Actions {
     String name;
     String surname;
 
-    // Перегрузка и переопределение методов
+    // Перегрузка и переопределение методов.
     public Person(int age) {
         this.age = age;
     }
